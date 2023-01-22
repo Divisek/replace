@@ -1,0 +1,15 @@
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\obj\Debug\net6.0\Replace.csproj.AssemblyReference.cache
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\obj\Debug\net6.0\Replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\obj\Debug\net6.0\Replace.AssemblyInfoInputs.cache
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\obj\Debug\net6.0\Replace.AssemblyInfo.cs
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\obj\Debug\net6.0\Replace.csproj.CoreCompileInputs.cache
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\bin\Debug\net6.0\Replace.exe
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\bin\Debug\net6.0\Replace.deps.json
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\bin\Debug\net6.0\Replace.runtimeconfig.json
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\bin\Debug\net6.0\Replace.dll
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\bin\Debug\net6.0\Replace.pdb
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\obj\Debug\net6.0\Replace.dll
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\obj\Debug\net6.0\refint\Replace.dll
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\obj\Debug\net6.0\Replace.pdb
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\obj\Debug\net6.0\Replace.genruntimeconfig.cache
+C:\Users\divoc\OneDrive\Plocha\Replace\Replace\obj\Debug\net6.0\ref\Replace.dll
